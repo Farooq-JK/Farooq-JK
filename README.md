@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Farooq-JK
-- 👀 I’m interested in Web Development and Data Analysis
+- 👀 I’m interested in Data Analysis and Web Development
 - 🌱 I’m currently learning Django and Power BI
 - 💞️ I’m looking to collaborate on open-source projects related to web applications
 - 📫 How to reach me: You can connect with me on LinkedIn or email me at "www.linkedin.com/in/f-khorshid"
